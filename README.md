@@ -19,7 +19,7 @@ This project analyzes the last 25 NBA champions to determine whether offense or 
 ## 🔗 Links
 - 📊 Dataset: [NBA Champions Dataset](nba_champions_rating.csv)
 - 💻 SQL Queries: [NBA Champions Query](champions_ranking_query.sql)
-- 📈 Tableau Dashboard: 
+- 📈 Tableau Dashboard: [Dashboard](https://public.tableau.com/app/profile/emanon.m/viz/OffensevsDefense_17768169499890/Dashboard2?publish=yes)
 
 ---
 
